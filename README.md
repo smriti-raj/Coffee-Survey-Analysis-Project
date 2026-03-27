@@ -1,5 +1,4 @@
 # Coffee-Survey-Analysis-Project
-
 📌 Overview
 
 This project analyzes coffee consumption habits using survey data.
@@ -23,6 +22,7 @@ Spending correlates with brewing method
 🤖 Machine Learning Model
 Model: Random Forest Classifier
 Target: Favorite Coffee Drink
+
 Accuracy: ~70–80% (depending on cleaning)
 📈 Dashboard Features
 Coffee consumption trends
