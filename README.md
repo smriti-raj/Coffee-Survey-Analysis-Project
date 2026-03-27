@@ -7,7 +7,7 @@ It includes data analysis, visualization, machine learning, and Power BI dashboa
 🎯 Objectives
 Understand coffee consumption patterns
 Analyze demographic behavior
-Build a predictive model for coffee preferences
+Build a predictive model for coffee preferences                                   
 Create interactive dashboards
 🛠️ Tools & Technologies
 Python (Pandas, NumPy, Seaborn, Matplotlib)
